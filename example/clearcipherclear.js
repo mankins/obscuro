@@ -16,3 +16,4 @@ var encryptedSerialized = obscuro.serializeEncrypt(obj,secret);
 var decryptedObj = obscuro.deserializeEncrypted(encryptedSerialized, secret);
 
     console.log(decryptedObj);
+
