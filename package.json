@@ -1,0 +1,24 @@
+{
+  "name": "obscuro",
+  "version": "0.0.1",
+  "description": "easy encrypted data serialization",
+  "main": "obscuro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mankins/obscuro.git"
+  },
+ "dependencies": {
+    "crypto": "~0.0.3", 
+},		 
+  "keywords": [
+    "serialization",
+    "crypto",
+    "encryption",
+    "obscuro"
+  ],
+  "author": "@mankins",
+  "license": "MIT"
+}
